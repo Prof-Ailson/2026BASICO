@@ -6,6 +6,13 @@ body{
 h1 {
 text-align: center;
 font-size: 70px;
+}
 
+h2 {
+   color: red;  
+}
 
+p{
+    font-style: italic;
+    font-size: 25px;
 }
